@@ -291,12 +291,97 @@ Once the server is running, you can access the interactive API documentation at:
 
 ---
 
-##  🖼️ Project Screenshots:
+## System Pages
 
+### 1. Dashboard (Homepage)
 ![Homepage Screenshot](S4.png)
+
+The main dashboard provides a comprehensive overview of your medical practice with key performance indicators:
+
+- **Total Doctors**: Displays the current number of registered doctors in the system
+- **Total Patients**: Shows the complete count of registered patients
+- **Scheduled Appointments**: Real-time count of upcoming appointments
+- **Completed Appointments**: Track of successfully completed consultations
+- **Cancelled Appointments**: Monitor of cancelled appointment statistics
+
+This centralized view helps administrators and staff quickly assess the practice's current status and daily operations at a glance.
+
+### 2. Doctor Management
 ![Doctor Screenshot](S1.png)
+
+The doctor management module offers comprehensive functionality for managing medical professionals:
+
+**Add New Doctors:**
+- **Name**: Full name of the medical professional
+- **Specialization**: Medical specialty or area of expertise
+- **Phone Number**: Contact information for communication
+- **Email**: Professional email address for correspondence
+
+**Features:**
+- Add new doctors to the system with complete professional details
+- View all registered doctors in an organized list format
+- Easy access to doctor information for appointment scheduling
+- Professional profile management for each medical practitioner
+
+### 3. Patient Management  
 ![Patient Screenshot](S2.png)
+
+The patient management system provides comprehensive patient record handling:
+
+**Patient Registration Fields:**
+- **Name**: Patient's full name
+- **Email**: Contact email for communication and notifications
+- **Phone**: Primary contact number
+- **Date of Birth**: Essential for age-related medical considerations
+- **Address**: Complete residential address for records
+
+**Capabilities:**
+- Register new patients with complete demographic information
+- Maintain comprehensive patient database
+- View all patient details in an organized format
+- Easy patient lookup for appointment scheduling
+- Secure patient information management
+
+### 4. Appointment Management
 ![Appointment Screenshot](S3.png)
+
+The appointment system streamlines the scheduling and management of patient consultations:
+
+**Booking Process:**
+- **Doctor Selection**: Choose from available medical professionals
+- **Patient Selection**: Select from registered patients
+- **Date & Time**: Schedule appointments with preferred time slots
+- **Additional Notes**: Add specific requirements or medical notes
+
+**Appointment Actions:**
+- **Complete Appointment**: Mark consultations as successfully completed
+- **Cancel Appointment**: Handle appointment cancellations with proper tracking
+- **View Appointments**: Monitor all scheduled, completed, and cancelled appointments
+
+**Benefits:**
+- Efficient scheduling system preventing double bookings
+- Real-time appointment status tracking
+- Comprehensive appointment history
+- Easy rescheduling and cancellation management
+
+## System Benefits
+
+- **Centralized Management**: All medical practice operations in one platform
+- **Real-time Updates**: Live tracking of appointments and statistics
+- **User-friendly Interface**: Intuitive design for easy navigation
+- **Comprehensive Records**: Complete patient and doctor information management
+- **Efficient Scheduling**: Streamlined appointment booking and management
+- **Status Tracking**: Monitor appointment completion and cancellation rates
+
+## Getting Started
+
+1. Access the dashboard to view overall system statistics
+2. Add doctors and their specializations to the system
+3. Register patients with complete contact information
+4. Schedule appointments by selecting doctors, patients, and preferred times
+5. Manage appointment status by marking them as completed or cancelled
+
+This medical management system provides healthcare facilities with the tools needed to efficiently manage their daily operations while maintaining accurate records and improving patient care coordination.
 
 
 **Happy Coding! 🚀**
