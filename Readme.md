@@ -293,6 +293,7 @@ Once the server is running, you can access the interactive API documentation at:
 
 ## 📊 Project Picture
 
-![Django](https://img.shields.io/badge/django-4.x-green)
+![Homepage Screenshot](s4.png)
+
 
 **Happy Coding! 🚀**
