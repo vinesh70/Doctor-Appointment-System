@@ -291,9 +291,12 @@ Once the server is running, you can access the interactive API documentation at:
 
 ---
 
-## 📊 Project Picture
+##  🖼️ Project Screenshots:
 
 ![Homepage Screenshot](S4.png)
+![Doctor Screenshot](S1.png)
+![Patient Screenshot](S2.png)
+![Appointment Screenshot](S3.png)
 
 
 **Happy Coding! 🚀**
