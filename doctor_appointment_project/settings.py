@@ -71,8 +71,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'doctor_db',
-        'USER': 'root',
-        'PASSWORD': 'Samvin@21',  # Change this to your MySQL password
+        'USER': 'Your_Username',
+        'PASSWORD': 'Your_Passowrd',  # Change this to your MySQL password
         'HOST': 'localhost',
         'PORT': '3306',
         'OPTIONS': {
