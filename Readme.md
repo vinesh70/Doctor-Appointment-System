@@ -293,7 +293,7 @@ Once the server is running, you can access the interactive API documentation at:
 
 ## 📊 Project Picture
 
-![Homepage Screenshot](s4.png)
+![Homepage Screenshot](S4.png)
 
 
 **Happy Coding! 🚀**
